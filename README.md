@@ -18,7 +18,7 @@
 
 I’m a **Senior .NET / Full-Stack Engineer** focused on building maintainable enterprise software, scalable APIs, distributed systems, and AI-powered applications.
 
-My work spans **warehouse and inventory platforms, CRM systems, e-commerce, workflow automation, microservices, real-time applications, and AI agents**.
+My work spans **warehouse and inventory platforms, ERP, CRM systems, e-commerce, workflow automation, microservices, real-time applications, and AI agents**.
 
 I enjoy solving complex business problems through clear domain models, pragmatic architecture, reliable APIs, and production-oriented engineering practices.
 
