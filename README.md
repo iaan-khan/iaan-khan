@@ -8,7 +8,6 @@ Building maintainable enterprise software, scalable APIs, distributed systems, c
 
 [![GitHub](https://img.shields.io/badge/GitHub-iaan--khan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaan-khan)
 [![Repositories](https://img.shields.io/badge/Public%20Repositories-14-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaan-khan?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/iaan-khan/iaan-khan.github.io)
 
 </div>
 
@@ -287,7 +286,6 @@ I prioritize:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaan-khan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/iaan-khan/iaan-khan.github.io)
 
 <br><br>
 
