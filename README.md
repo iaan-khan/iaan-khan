@@ -1,12 +1,10 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner.svg">
-    <img src="./assets/profile-banner.svg" alt="Iaan Khan — Senior .NET & Full-Stack Engineer" width="100%">
-  </picture>
-</div>
 
-<div align="center">
+# Irfan A. Khan
+
+### Senior .NET & Full-Stack Engineer | Cloud & AI Engineering
+
+Building maintainable enterprise software, scalable APIs, distributed systems, cloud solutions, and AI-powered applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-iaan--khan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaan-khan)
 [![Repositories](https://img.shields.io/badge/Public%20Repositories-14-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iaan-khan?tab=repositories)
@@ -16,9 +14,9 @@
 
 ## 👋 About
 
-I’m a **Senior .NET / Full-Stack Engineer** focused on building maintainable enterprise software, scalable APIs, distributed systems, and AI-powered applications.
+I’m a **Senior .NET / Full-Stack Engineer** focused on building maintainable enterprise software, scalable APIs, distributed systems, cloud-based applications, and AI-powered solutions.
 
-My work spans **warehouse and inventory platforms, ERP, CRM systems, e-commerce, workflow automation, microservices, real-time applications, and AI agents**.
+My work spans **warehouse and inventory platforms, ERP and CRM systems, e-commerce, workflow automation, microservices, real-time applications, AWS cloud infrastructure, and AI agents**.
 
 I enjoy solving complex business problems through clear domain models, pragmatic architecture, reliable APIs, and production-oriented engineering practices.
 
@@ -52,12 +50,12 @@ I enjoy solving complex business problems through clear domain models, pragmatic
 <tr>
 <td>
 
-### Platform Engineering
+### Cloud & Platform Engineering
+- AWS infrastructure and cloud services
+- Containers and Kubernetes
 - REST / headless APIs
 - Authentication & authorization
-- Real-time communication
-- Caching
-- Observability
+- CI/CD and deployment automation
 
 </td>
 <td>
@@ -78,26 +76,24 @@ I enjoy solving complex business problems through clear domain models, pragmatic
 ## 🧰 Technology Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,angular,vue,ts,js,postgres,mongodb,redis,docker,githubactions,git" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,angular,vue,ts,js,postgres,mongodb,redis,docker,kubernetes,aws,azure,terraform,githubactions,git" alt="Technology stack icons" />
 </p>
 
 | Area | Technologies |
 |---|---|
-| **Backend** | C#, .NET, ASP.NET Core, Web API, EF Core, LINQ, Python, Node.js, Laravel |
-| **Architecture** | Clean Architecture, DDD, CQRS, MediatR, Microservices, Event-Driven Architecture |
+| **Backend** | C#, .NET, .NET Core, ASP.NET Core, Web API, EF Core, LINQ, Python, Node.js, Laravel |
+| **Cloud Platforms** | Amazon Web Services (AWS), Microsoft Azure |
+| **AWS Compute & Containers** | EC2, ECS, EKS, AWS Lambda, Kubernetes, Docker |
+| **AWS Storage, Databases & Data** | S3, DynamoDB, Amazon RDS, AWS Glue, AWS Database Migration Service (DMS) |
+| **AWS Messaging & Integration** | SQS, SNS, EventBridge, Step Functions |
+| **Cloud Security & Networking** | AWS IAM, identity and access management, roles and permissions, VPCs, subnets |
+| **Azure Services** | Azure Functions, Azure DevOps |
+| **Architecture** | Clean Architecture, DDD, CQRS, MediatR, Microservices, Event-Driven Architecture, Serverless |
 | **Frontend** | Angular, Vue.js, TypeScript, JavaScript, Razor Pages |
-| **Data** | SQL Server, PostgreSQL, MongoDB, SQLite, Redis |
-| **Messaging** | RabbitMQ, SignalR, REST |
-| **DevOps** | Docker, Docker Compose, GitHub Actions, Prometheus, Health Checks |
+| **Data Stores** | SQL Server, PostgreSQL, MongoDB, SQLite, Redis |
+| **Messaging & Real-Time** | RabbitMQ, SignalR, REST APIs |
+| **DevOps & Observability** | Docker, Docker Compose, GitHub Actions, Azure DevOps, Terraform, Prometheus, Health Checks, CI/CD |
 | **AI** | LangGraph, LLM Agents, ReAct, Tool Calling, Chainlit |
-
----
-
-## 🏗️ Architecture
-
-<div align="center">
-  <img src="./assets/architecture.svg" alt="Engineering architecture overview" width="100%">
-</div>
 
 ---
 
@@ -252,6 +248,7 @@ Infrastructure
       ├── Database
       ├── Messaging
       ├── Cache
+      ├── Cloud services
       └── External services
       │
       ▼
@@ -263,7 +260,7 @@ I prioritize:
 - Clear separation of concerns
 - Explicit business rules
 - Testable application logic
-- Secure APIs
+- Secure APIs and cloud configurations
 - Reliable distributed communication
 - Practical scalability
 - Observability
@@ -273,11 +270,13 @@ I prioritize:
 
 ## 📊 GitHub
 
+> **Note:** These cards are served by a third-party statistics service and can occasionally fail due to rate limits or service outages. The profile and repository links above remain available if the cards do not load.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iaan-khan&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=iaan-khan&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics card">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaan-khan&layout=compact&hide_border=true" height="165" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaan-khan&layout=compact&hide_border=true" height="165" alt="Top languages card">
 
 </div>
 
@@ -292,6 +291,6 @@ I prioritize:
 
 <br><br>
 
-**Building practical software with clean architecture, scalable systems, and modern engineering practices.**
+**Building practical software with clean architecture, scalable systems, cloud engineering, and modern development practices.**
 
 </div>
